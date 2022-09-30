@@ -1,6 +1,6 @@
 <p  align="center">
 
-<img  src="https://mpng.subpng.com/20180629/sh/kisspng-javascript-programmer-programming-language-compute-node-js-5b35fcbcb36994.8496604815302647647349.jpg"  height="500px"  width  ="900px">
+<img  src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"  height="300px"  width  ="800px">
 
 </p>
 
@@ -36,8 +36,12 @@
 
 ## Course Tracking
 
+<div align = "center">
+
 ### Lessons & Assignments Uploaded
 
-| Week Number                | Lessons Code From - To                       | Assignments Code     |
-| -------------------------- | -------------------------------------------- | -------------------- |
-| <p align="center"> 01 </p> | <p align="center"> [NOT UPLOADED YET]() </p> | [NOT UPLOADED YET]() |
+| Week Number                | Lessons Code From - To                                                                                                                        | Assignments Code                             |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| <p align="center"> 01 </p> | <p align="center"> [Lessons From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Lessons/Lessons%20%5B001%20-%20009%5D) </p> | <p align="center"> [NOT UPLOADED YET]() </p> |
+
+</div>
