@@ -40,8 +40,8 @@
 
 ### Lessons & Assignments Uploaded
 
-| Week Number                | Lessons Code From - To                                                                                                                        | Assignments Code                                                                                                                                            |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p align="center"> 01 </p> | <p align="center"> [Lessons From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Lessons/Lessons%20%5B001%20-%20009%5D) </p> | <p align="center"> [Assignments From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Assignments/Assignments%20From%20001%20To%20009) </p> |
+| Week Number                | Lessons Code From - To                                                                                                                          | Assignments Code                                                                                                                                            |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"> 01 </p> | <p align="center"> [Lessons From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Lessons/Lessons%20From%20001%20To%20009) </p> | <p align="center"> [Assignments From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Assignments/Assignments%20From%20001%20To%20009) </p> |
 
 </div>
