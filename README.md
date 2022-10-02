@@ -30,7 +30,7 @@
 
 ## Course Progress
 
-![5%](https://progress-bar.dev/5?title=Progress)
+![9%](https://progress-bar.dev/9?title=Progress)
 
 ---
 
