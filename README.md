@@ -43,5 +43,6 @@
 | Week Number                | Lessons Code From - To                                                                                                                          | Assignments Code                                                                                                                                            |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p align="center"> 01 </p> | <p align="center"> [Lessons From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Lessons/Lessons%20From%20001%20To%20009) </p> | <p align="center"> [Assignments From 001 To 009](https://github.com/GeorgeBeshay/JavaScript/tree/main/Assignments/Assignments%20From%20001%20To%20009) </p> |
+| <p align="center"> 02 </p> | <p align="center"> [Lessons From 010 To 017](https://github.com/GeorgeBeshay/JavaScript/tree/main/Lessons/Lessons%20From%20010%20To%20017) </p> | <p align="center"> [NOT YET](https://github.com/GeorgeBeshay/JavaScript/tree/main/Assignments/Assignments%20From%20010%20To%20017) </p>                     |
 
 </div>
